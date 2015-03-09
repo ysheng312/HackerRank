@@ -10,7 +10,7 @@ import java.util.Queue;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Solution {
+public class HackerRank_FavoriteSequence {
 	// public static final int max = 10000;
 
 	private static class Graph {
